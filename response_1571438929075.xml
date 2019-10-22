@@ -1,0 +1,2921 @@
+<xml>
+  <dados>
+    <valorRef>
+      <cod>129</cod>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+      <descricao>Consulta</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>130</cod>
+      <sigla>EMC</sigla>
+      <nome>Emenda na Comissão</nome>
+      <descricao>Emenda Apresentada na Comissão</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>131</cod>
+      <sigla>EMP</sigla>
+      <nome>Emenda de Plenário</nome>
+      <descricao>Emenda de Plenário</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>132</cod>
+      <sigla>EMS</sigla>
+      <nome>Emenda/Substitutivo do Senado</nome>
+      <descricao>Emenda/Substitutivo do Senado</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>133</cod>
+      <sigla>INC</sigla>
+      <nome>Indicação</nome>
+      <descricao>Indicação</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>134</cod>
+      <sigla>MSC</sigla>
+      <nome>Mensagem</nome>
+      <descricao>Mensagem</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>135</cod>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+      <descricao>Projeto de Decreto Legislativo</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>136</cod>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+      <descricao>Proposta de Emenda à Constituição (Art. 60 CF c/c art. 201 a 203, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>137</cod>
+      <sigla>PET</sigla>
+      <nome>Petição</nome>
+      <descricao>Petição</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>138</cod>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+      <descricao>Proposta de Fiscalização e Controle</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>139</cod>
+      <sigla>PL</sigla>
+      <nome>Projeto de Lei</nome>
+      <descricao>Projeto de Lei</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>140</cod>
+      <sigla>PLP</sigla>
+      <nome>Projeto de Lei Complementar</nome>
+      <descricao>Projeto de Lei Complementar (Art. 61 CF)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>141</cod>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+      <descricao>Projeto de Resolução</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>142</cod>
+      <sigla>PRN</sigla>
+      <nome>Projeto de Resolução do Congresso Nacional</nome>
+      <descricao>Projeto de Resolução (CN)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>143</cod>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+      <descricao>Requerimento de Instituição de Comissão Parlamentar de Inquérito</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>144</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso</nome>
+      <descricao>Recurso</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>145</cod>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+      <descricao>Reclamação</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>146</cod>
+      <sigla>REP</sigla>
+      <nome>Representação</nome>
+      <descricao>Representação</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>147</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>148</cod>
+      <sigla>RIC</sigla>
+      <nome>Requerimento de Informação</nome>
+      <descricao>Requerimento de Informação (Art. 116, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>149</cod>
+      <sigla>RPR</sigla>
+      <nome>Representação</nome>
+      <descricao>Representação</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>150</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Convocação</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>151</cod>
+      <sigla>SIT</sigla>
+      <nome>Solicitação de Informação ao TCU</nome>
+      <descricao>Solicitação de Informação ao TCU</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>152</cod>
+      <sigla>STF</sigla>
+      <nome>Ofício</nome>
+      <descricao>Ofício</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>153</cod>
+      <sigla>TVR</sigla>
+      <nome>Ato de Concessão e Renovação de Concessão de Emissora de Rádio e Televisão</nome>
+      <descricao>TVR</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>154</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso do Congresso Nacional</nome>
+      <descricao>Recurso do Congresso Nacional</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>171</cod>
+      <sigla>INA</sigla>
+      <nome>Indicação de Autoridade</nome>
+      <descricao>Indicação de Autoridade</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>181</cod>
+      <sigla>OF</sigla>
+      <nome>Ofício</nome>
+      <descricao>Ofício</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>185</cod>
+      <sigla>P.C</sigla>
+      <nome>Parecer (CD)</nome>
+      <descricao>Parecer (CD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>187</cod>
+      <sigla>PAR</sigla>
+      <nome>Parecer de Comissão</nome>
+      <descricao>Parecer de Comissão</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>189</cod>
+      <sigla>MAN</sigla>
+      <nome>Manifestação do Relator</nome>
+      <descricao>Manifestação do Relator</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>190</cod>
+      <sigla>PRL</sigla>
+      <nome>Parecer do Relator</nome>
+      <descricao>Parecer Relator</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>191</cod>
+      <sigla>PRV</sigla>
+      <nome>Parecer Vencedor</nome>
+      <descricao>Parecer Vencedor</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>192</cod>
+      <sigla>PPP</sigla>
+      <nome>Parecer Proferido em Plenário</nome>
+      <descricao>Parecer Proferido em Plenário</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>193</cod>
+      <sigla>PRR</sigla>
+      <nome>Parecer Reformulado</nome>
+      <descricao>Parecer Reformulado</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>195</cod>
+      <sigla>CVO</sigla>
+      <nome>Complementação de Voto</nome>
+      <descricao>Complementação de Voto</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>196</cod>
+      <sigla>PES</sigla>
+      <nome>Parecer às emendas apresentadas ao Substitutivo do Relator</nome>
+      <descricao>Parecer às emendas apresentadas ao Substitutivo do Relator </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>197</cod>
+      <sigla>RDF</sigla>
+      <nome>Redação Final</nome>
+      <descricao>Redação Final</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>201</cod>
+      <sigla>MAN</sigla>
+      <nome>Manifestação pela Prejudicialidade da Matéria</nome>
+      <descricao>Manifestação pela Prejudicialidade da Matéria</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>202</cod>
+      <sigla>MAN</sigla>
+      <nome>Manifestação pela Incompetência da Comissão</nome>
+      <descricao>Manifestação pela Incompetência da Comissão</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>211</cod>
+      <sigla>PRF</sigla>
+      <nome>Projeto de Resolução do Senado Federal</nome>
+      <descricao>Projeto de Resolução do Senado Federal</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>234</cod>
+      <sigla>RTV</sigla>
+      <nome>Mensagem de Rádio e Televisão</nome>
+      <descricao>Mensagem de Rádio e Televisão</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>246</cod>
+      <sigla>CST</sigla>
+      <nome>CST</nome>
+      <descricao>CST</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>248</cod>
+      <sigla>NINF</sigla>
+      <nome>Não Informada</nome>
+      <descricao>Não Informada</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>249</cod>
+      <sigla>OFT</sigla>
+      <nome>OFT</nome>
+      <descricao>OFT</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>253</cod>
+      <sigla>SGM</sigla>
+      <nome>Ofício da Mesa</nome>
+      <descricao>Ofício da Mesa</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>254</cod>
+      <sigla>DIS</sigla>
+      <nome>Discurso</nome>
+      <descricao>Discurso</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>255</cod>
+      <sigla>SBT</sigla>
+      <nome>Substitutivo</nome>
+      <descricao>Substitutivo</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>256</cod>
+      <sigla>SBE</sigla>
+      <nome>Subemenda</nome>
+      <descricao>Subemenda</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>257</cod>
+      <sigla>EMR</sigla>
+      <nome>Emenda de Relator</nome>
+      <descricao>Emenda de Relator</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>258</cod>
+      <sigla>ESB</sigla>
+      <nome>Emenda ao Substitutivo</nome>
+      <descricao>Emenda ao Substitutivo</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>260</cod>
+      <sigla>VTS</sigla>
+      <nome>Voto em Separado</nome>
+      <descricao>Voto em Separado</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>261</cod>
+      <sigla>DTQ</sigla>
+      <nome>Destaque</nome>
+      <descricao>Destaque</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>262</cod>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+      <descricao>Relatório de Subcomissão</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>270</cod>
+      <sigla>DVT</sigla>
+      <nome>Declaração de Voto</nome>
+      <descricao>Declaração de Voto</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>273</cod>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+      <descricao>Emenda à LDO</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>276</cod>
+      <sigla>SDL</sigla>
+      <nome>Sugestão de Emenda à LDO - CLP</nome>
+      <descricao>Sugestão de Emenda à LDO</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>285</cod>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+      <descricao>Sugestão</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>286</cod>
+      <sigla>SUM</sigla>
+      <nome>Súmula</nome>
+      <descricao>Súmula</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>287</cod>
+      <sigla>EMO</sigla>
+      <nome>Emenda ao Orçamento</nome>
+      <descricao>Emenda ao Orçamento</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>288</cod>
+      <sigla>SOA</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - CLP</nome>
+      <descricao>Sugestão de Emenda ao Orçamento</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>289</cod>
+      <sigla>REL</sigla>
+      <nome>Relatório de CPI</nome>
+      <descricao>Relatório de CPI</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>290</cod>
+      <sigla>EMD</sigla>
+      <nome>Emenda</nome>
+      <descricao>Emenda</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>291</cod>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+      <descricao>Medida Provisória</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>292</cod>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+      <descricao>Relatório</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>293</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Sessão Solene</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>294</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Audiência Pública</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>295</cod>
+      <sigla>DEN</sigla>
+      <nome>Denúncia</nome>
+      <descricao>Denúncia</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>296</cod>
+      <sigla>
+      </sigla>
+      <nome>D) PARECERES, MANIFESTAÇÕES E REDAÇÃO FINAL</nome>
+      <descricao>E) PARECERES, MANIFESTAÇÕES E REDAÇÃO FINAL</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>297</cod>
+      <sigla>
+      </sigla>
+      <nome>C) EMENDAS (RICD Cap. V)</nome>
+      <descricao>D) EMENDAS (RICD Cap. V)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>298</cod>
+      <sigla>
+      </sigla>
+      <nome>H) OUTRAS PROPOSIÇÕES ACESSÓRIAS</nome>
+      <descricao>OUTRAS PROPOSIÇÕES ACESSÓRIAS</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>299</cod>
+      <sigla>
+      </sigla>
+      <nome>E) REQUERIMENTOS (RICD Cap IV)</nome>
+      <descricao>F) REQUERIMENTOS (RICD Cap IV)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>301</cod>
+      <sigla>
+      </sigla>
+      <nome>A) PROPOSIÇÕES CF/88 Art. 59</nome>
+      <descricao>A) PROPOSIÇÕES CF/88 Art. 59</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>302</cod>
+      <sigla>
+      </sigla>
+      <nome>B) PROPOSIÇÕES CF/88 Arts 58, 70 e 223, e RICD Art 100.</nome>
+      <descricao>B) PROPOSIÇÕES CF/88 Arts 58, 70 e 233, e RICD Art 100.</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>303</cod>
+      <sigla>
+      </sigla>
+      <nome>F) SUGESTÕES</nome>
+      <descricao>G) SUGESTÕES</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>304</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Apensação</nome>
+      <descricao>Ar. 142, RICD</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>305</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Desapensação</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>306</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Audiência solicitada por Deputado</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>307</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Audiência solicitada por Comissão ou Deputado</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>308</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Redistribuição</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>310</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Retirada de assinatura em proposição de iniciativa coletiva</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>311</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Retirada de proposição de iniciativa individual</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>312</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Retirada de Proposição de Iniciativa Coletiva</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>313</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Retirada de assinatura em proposição que não seja de iniciativa coletiva</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>314</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Envio de proposições pendentes de parecer à Comissão seguinte ou ao Plenário</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>315</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Retirada do requerimento de urgência (matéria com requerimento apresentado e não votado)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>316</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Retirada do requerimento de informação</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>317</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Constituição de Comissão Parlamentar de Inquerito (CPI)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>318</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Inclusão na Ordem do Dia</nome>
+      <descricao>Inclusão na Ordem do Dia (Art. 135 c/c 114, XIV, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>319</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Retirada de proposição</nome>
+      <descricao>Retirada de proposição com parecer (Art. 104, c/c art. 114, V e VII, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>321</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Extinção do regime de urgência (matéria com urgência votada)</nome>
+      <descricao>Extinção do regime de urgência (Art. 156, c/c art. 104, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>322</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Tramitação de proposição em regime de prioridade</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>323</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Dispensa de interstício para inclusão de matéria prevista no art. 17, I, s (Agenda Mensal) na Ordem do Dia</nome>
+      <descricao>Dispensa de interstício para inclusão na Ordem do Dia (Art. 150, § único, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>324</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Destaque para votação em separado de parte de proposição (DVS)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>327</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Retirada da OD de proposições com pareceres favoraveis</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>328</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Retirada da OD de proposição nela incluída</nome>
+      <descricao>Retirada da OD de proposição nela incluída (Art. 117, VI, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>329</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Adiamento de discussão</nome>
+      <descricao>Adiamento de discussão nos termos do art. 177, c/c art. 101, II,2, RICD.</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>330</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Dispensa da discussão</nome>
+      <descricao>Dispensa da discussão (Art. 101, II, 2, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>331</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Encerramento de Discussão</nome>
+      <descricao>Encerramento de discussão (Art. 178, § 2º, c/c art. 101, II, 2, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>332</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Votação por determinado processo</nome>
+      <descricao>Votação por determinado processo (Art. 101, II, 3, c/c art. 189, § 3º, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>333</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Votação  parcelada da proposição</nome>
+      <descricao>Votação em globo ou parcelada (Art. 101, II, 3, c/c art. 189, § 3º RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>334</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Verificação de votação</nome>
+      <descricao>Verificação de votação (Art. art. 185, §5º, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>335</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Votação por escrutínio secreto</nome>
+      <descricao>Votação por escrutínio secreto (Art. 188, II, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>336</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Adiamento da votação</nome>
+      <descricao>Adiamento da votação nos termos do Art. 193º c/c 117, X do RICD.</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>337</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Preferência para votação ou discussão de uma proposição</nome>
+      <descricao>Preferência para votação ou discussão de uma proposição (Art. 160, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>338</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Dispensa do avulso da redação final</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>339</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Reconstituição de proposição</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>340</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Inclusão na Ordem do Dia de proposição (Durante o período ordinário)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>341</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Publicação de Parecer de Comissão aprovado</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>342</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Reabertura de discussão de projeto de Sessão Legislativa anterior</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>343</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Transformação de Sessão Plenaria em Comissão Geral</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>344</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Retificação de Ata</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>345</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Prorrogação de sessão</nome>
+      <descricao>Prorrogação de sessão (Art. 72, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>346</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Prorrogação da Ordem do Dia</nome>
+      <descricao>Prorrogação da Ordem do Dia (Art. 84, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>347</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Convocação de Sessões Extraordinarias para matérias constantes do ato de convocação</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>348</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Prorrogação de prazo de Comissão Temporária</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>349</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Constituição de Comissão Externa</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>350</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Realização de Sessão Extraordinária</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>351</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Realização de Sessão secreta</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>353</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Não realização de sessão solene em determinado dia</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>354</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Voto de regozijo ou louvor</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>355</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Voto de pesar</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>356</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Convocação de Ministro de Estado no Plenário</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>357</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Quebra de sigilo (Requerimentos não especificados no RICD</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>358</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Encaminha copia de Relatorio Final de C. Temporaria </nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>359</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Constituição de Comissão Especial de PEC</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>360</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Inserção nos Anais</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>361</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Publicação de documentos discursos de outro poder nao lidos na integra por deputado</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>362</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Adocão de providências em face da ausência de resposta no prazo constitucional a RIC</nome>
+      <descricao>Art. 50, § 2º da CF c/c art. 105, RICD.</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>363</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Desarquivamento de Proposições</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>364</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Afastamento para tratamento de saude superior a 120 dias.</nome>
+      <descricao>Art. 235, II, RICD.</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>365</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Afastamento para tratamento de saúde inferior a 120 dias.</nome>
+      <descricao>Art. 235, II, RICD.</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>366</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Afastamento por licença de saude e consecutivamente afastamento para tratar de assunto particular superior a 120 dias.</nome>
+      <descricao>Art. 235, II e III, RICD.</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>368</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Afastamento para investidura em cargo publico</nome>
+      <descricao>Art. 56, inciso I da CF c/c com art. 235, IV, RICD.</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>369</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Prorrogação de licença para tratamento de saúde (licença superior a 120 dias)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>370</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Interrupção da licença superior a 120 dias</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>371</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Justificativa de falta</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>372</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso contra devolução de requerimento de CPI (Art. 35, § 2º, RICD)</nome>
+      <descricao>Contra devolução de requerimento de CPI (Art. 35, § 1º, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>373</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso contra apreciação conclusiva de comissão (Art. 58, § 1º c/c art. 132, § 2º, RICD)</nome>
+      <descricao>Contra apreciação conclusiva de comissão (Art. 58, § 1º, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>374</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso contra apreciação conclusiva com pareceres contrarios (Art. 133, RICD)</nome>
+      <descricao>Contra apreciação conclusiva com pareceres contrarios (Art. 133, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>375</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso contra parecer terminativo de comissão (Art. 132, § 2º c/c art. 144, caput, RICD)</nome>
+      <descricao>Contra parecer terminativo de comissão (Art. 132, § 2º c/c art. 144, caput, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>376</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso contra devolução de proposição (Art. 137, § 2º, RICD)</nome>
+      <descricao>Contra devolução de proposição (Art. 137, § 2º, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>377</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso contra deferimento/indeferimento de audiencia (Art. 140, I, RICD)</nome>
+      <descricao>Contra deferimento/indeferimento de audiencia (Art. 140, I, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>378</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso contra redistribuição de proposição (Art. 141, RICD)</nome>
+      <descricao>Contra redistribuição de proposição (Art. 141, § 4º, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>379</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso contra apensação/desapensação de proposição (Art. 142, I, RICD)</nome>
+      <descricao>Contra apensação/desapensação de proposição (Art. 142, I, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>380</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso contra deferimento/indeferimento retirada proposição (Art. 104, caput, RICD)</nome>
+      <descricao>Contra deferimento/indeferimento retirada proposição (Art. 104, caput, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>381</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso contra declaração de prejudicialidade. (Art. 164, § 2º, RICD)</nome>
+      <descricao>Contra declaração de prejudicialidade. (Art. 164, § 2º, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>382</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso contra decisão do Presidente da CD em Questao de Ordem (Art. 95, § 8º, RICD)</nome>
+      <descricao>Contra decisão do Presidente da CD em Questao de Ordem (Art. 95, § 8º, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>383</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso contra decisão de Presidente de Comissão em Questão de Ordem (Art. 57, XXI c/c art. 17, III, f, RICD)</nome>
+      <descricao>Contra decisão de Presidente de Comissão em Questão de Ordem (Art. 57, XXI c/c art. 17, III, f, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>384</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso contra indeferimento de Requerimento de Infomação (Art. 115, parágrafo único, RICD)</nome>
+      <descricao>Contra indeferimento de Requerimento de Infomação (Art. 115, parágrafo único, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>385</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso contra nao recebimento de emenda (Art. 125, caput, RICD)</nome>
+      <descricao>Contra nao recebimento de emenda (Art. 125, caput, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>386</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso contra improcedencia de retificação de ata (Art. 80, § 1º, RICD)</nome>
+      <descricao>Contra improcedencia de retificação de ata (Art. 80, § 1º, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>387</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso contra indeferimento de requerimento para publicação em ata (Art. 98, § 3º, RICD)</nome>
+      <descricao>Contra indeferimento de requerimento para publicação em ata (Art. 98, § 3º, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>388</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso contra a não publicação de pronunciamento ou expressão (Art. 98, 6º, RICD)</nome>
+      <descricao>Contra a não publicação de pronunciamento ou expressão (Art. 98, 6º, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>389</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso contra nao recebimento de denuncia crime responsabilidade (Art. 218, § 3º, RICD)</nome>
+      <descricao>Contra nao recebimento de denuncia crime responsabilidade (Art. 218, § 3º, RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>390</cod>
+      <sigla>PLV</sigla>
+      <nome>Projeto de Lei de Conversão</nome>
+      <descricao>Projeto de Lei de Conversão</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>391</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Urgência (Art. 154 do RICD)</nome>
+      <descricao>Urgencia (Art. 154 do RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>392</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Urgência (Art. 155 do RICD)</nome>
+      <descricao>Urgência (Art. 155 do RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>393</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Adiamento de discussão em regime de urgência</nome>
+      <descricao>Aditamento de discussão em regime de urgência nos termos do art. 177, §1º do RICD.</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>394</cod>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Medida Provisória</nome>
+      <descricao>Medida Provisória (Art. 62, § 3º da CF)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>395</cod>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Referendo ou Plebiscito</nome>
+      <descricao>Plebiscito (Art. 49, XV da CF c/c o art. 3º Lei 9.709/98)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>396</cod>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Concessão, Renovação e Permissão de Radio/TV</nome>
+      <descricao>Concessão/Renovação de Radio/TV (Art. 49, XII c/c 223 da CF)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>397</cod>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Acordos, tratados ou atos internacionais</nome>
+      <descricao>Acordos, tratados ou atos internacionais (Art. 49, I da CF)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>398</cod>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Indicação de Autoridade ao TCU</nome>
+      <descricao>Indicação de Autoridade ao TCU (Art. 49, XIII da CF)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>400</cod>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Criação de CPI</nome>
+      <descricao>Criação de CPI (Art. 35 do RICD)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>401</cod>
+      <sigla>MSC</sigla>
+      <nome>Mensagem de Concessão ou Renovação de Rádio e TV </nome>
+      <descricao>Concessão de Rádio e TV (Art. 49, XII c/c 223 CF)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>402</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso contra aplicação de censura verbal (Art. 11, Parágrafo único do CEDP)</nome>
+      <descricao>Contra aplicação de censura verbal (Art. 11, Parágrafo único do CEDP)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>403</cod>
+      <sigla>MSC</sigla>
+      <nome>Mensagem de Comunica ausência do país</nome>
+      <descricao>Comunica ausência do país</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>404</cod>
+      <sigla>MSC</sigla>
+      <nome>Mensagem de Cancelamento de Urgência</nome>
+      <descricao>Cancelamento de Urgência</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>405</cod>
+      <sigla>MSC</sigla>
+      <nome>Mensagem de Retirada de proposição</nome>
+      <descricao>Retirada de proposição</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>406</cod>
+      <sigla>MSC</sigla>
+      <nome>Mensagem de Solicitação de urgência </nome>
+      <descricao>Solicitação de urgência </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>407</cod>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Programação Monetária</nome>
+      <descricao>Programação Monetária (Lei nº 9.069/95)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>408</cod>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Sustação de Atos Normativos do Poder Executivo</nome>
+      <descricao>Susta atos normativos do Poder Executivo.</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>409</cod>
+      <sigla>AV</sigla>
+      <nome>Demonstrativo de emissão do real</nome>
+      <descricao>Demonstrativo de emissão do real (Lei nº 9.069/95)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>410</cod>
+      <sigla>MSC</sigla>
+      <nome>Mensagem de Indicação de Líder</nome>
+      <descricao>Indicação de Líder</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>411</cod>
+      <sigla>MSC</sigla>
+      <nome>Mensagem de Acordos, convênios, tratados e atos internacionais</nome>
+      <descricao>Acordos, convênios, tratados e atos internacionais</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>412</cod>
+      <sigla>MSC</sigla>
+      <nome>Mensagem de Restituição de Autógrafos</nome>
+      <descricao>Restituição de Autógrafos</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>413</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Retirada de proposição sem parecer</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>414</cod>
+      <sigla>MSC</sigla>
+      <nome>Mensagem de ausência do país por mais de 15 dias </nome>
+      <descricao>Mensagem de ausência do país por mais de 15 dias (Art. 49, III, CF)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>415</cod>
+      <sigla>MSC</sigla>
+      <nome>Mensagem de ausência do país por menos de 15 dias  </nome>
+      <descricao>Mensagem de ausência do país por menos de 15 dias  (Art. 49, III, CF)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>417</cod>
+      <sigla>TVR</sigla>
+      <nome>Autorização - Rádio Comunitária</nome>
+      <descricao>Autorização - Rádio Comunitária</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>418</cod>
+      <sigla>TVR</sigla>
+      <nome>Concessão - Rádio Ondas Curtas</nome>
+      <descricao>Concessão - Rádio Ondas Curtas</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>419</cod>
+      <sigla>TVR</sigla>
+      <nome>Concessão - Rádio Ondas Médias</nome>
+      <descricao>Concessão - Rádio Ondas Médias</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>420</cod>
+      <sigla>TVR</sigla>
+      <nome>Concessão Rádio Ondas Médias Educativa</nome>
+      <descricao>Concessão Rádio Ondas Médias Educativa</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>421</cod>
+      <sigla>TVR</sigla>
+      <nome>Concessão Rádio Ondas Tropicais</nome>
+      <descricao>Concessão Rádio Ondas Tropocais</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>422</cod>
+      <sigla>TVR</sigla>
+      <nome>Concessão Radiodifusão Sons e Imagens</nome>
+      <descricao>Concessão Radiodifusão Sons e Imagens</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>423</cod>
+      <sigla>TVR</sigla>
+      <nome>Concessão TV Educativa</nome>
+      <descricao>Concessão TV Educativa</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>424</cod>
+      <sigla>TVR</sigla>
+      <nome>Permissão Frequência Modulada Educativa</nome>
+      <descricao>Permissão Frequência Modulada Educativa</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>425</cod>
+      <sigla>TVR</sigla>
+      <nome>Permissão Rádio Frequência Modulada</nome>
+      <descricao>Permissão Rádio Frequência Modulada</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>426</cod>
+      <sigla>TVR</sigla>
+      <nome>Permissão Rádio Ondas Médias Local</nome>
+      <descricao>Permissão Rádio Ondas Médias Local</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>427</cod>
+      <sigla>TVR</sigla>
+      <nome>Renovação Rádio Comunitária</nome>
+      <descricao>Renovação Rádio Comunitária</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>428</cod>
+      <sigla>TVR</sigla>
+      <nome>Renovação Rádio Frequência Modulada</nome>
+      <descricao>Renovação Rádio Frequência Modulada</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>429</cod>
+      <sigla>TVR</sigla>
+      <nome>Renovação Rádio Frequência Modulada Educativa</nome>
+      <descricao>Renovação Rádio Frequência Modulada Educativa</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>430</cod>
+      <sigla>TVR</sigla>
+      <nome>Renovação Rádio Ondas Curtas</nome>
+      <descricao>Renovação Rádio Ondas Curtas</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>431</cod>
+      <sigla>TVR</sigla>
+      <nome>Renovação Rádio Ondas Médias</nome>
+      <descricao>Renovação Rádio Ondas Médias</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>432</cod>
+      <sigla>TVR</sigla>
+      <nome>Renovação Rádio Ondas Médias Local</nome>
+      <descricao>Renovação Rádio Ondas Médias Local</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>433</cod>
+      <sigla>TVR</sigla>
+      <nome>Renovação Rádio Ondas Médias Educativa</nome>
+      <descricao>Renovação Rádio Ondas Médias Educativa</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>434</cod>
+      <sigla>TVR</sigla>
+      <nome>Renovação Rádio Ondas Tropicais</nome>
+      <descricao>Renovação  Rádio Ondas Tropicais</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>435</cod>
+      <sigla>TVR</sigla>
+      <nome>Renovação TV Sons e Imagens</nome>
+      <descricao>Renovação TV Sons e Imagens</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>436</cod>
+      <sigla>TVR</sigla>
+      <nome>Renovação TV Educativa</nome>
+      <descricao>Renovação TV Educativa</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>437</cod>
+      <sigla>MSC</sigla>
+      <nome>Mensagem de Cumprimento de meta</nome>
+      <descricao>Cumprimento de meta</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>439</cod>
+      <sigla>DCR</sigla>
+      <nome>Denúncia por crime de responsabilidade</nome>
+      <descricao>Denúncia por crime de responsabilidade</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>440</cod>
+      <sigla>
+      </sigla>
+      <nome>J) NÃO PROPOSIÇÃO</nome>
+      <descricao>Não Proposição</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>441</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Moção</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>442</cod>
+      <sigla>PEP</sigla>
+      <nome>Parecer às Emendas de Plenário</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>443</cod>
+      <sigla>PSS</sigla>
+      <nome>Parecer às Emendas ou ao Substitutivo do Senado</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>444</cod>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>445</cod>
+      <sigla>NIC</sigla>
+      <nome>Norma Interna</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>448</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento não previsto</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>449</cod>
+      <sigla>MSC</sigla>
+      <nome>Mensagem de Implementação da Lei 10.147/00</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>450</cod>
+      <sigla>ERD</sigla>
+      <nome>Emenda de Redação</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>451</cod>
+      <sigla>PPR</sigla>
+      <nome>Parecer Reformulado de Plenário</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>452</cod>
+      <sigla>TER</sigla>
+      <nome>Termo de Implementação</nome>
+      <descricao/>
+    </valorRef>
+    <valorRef>
+      <cod>453</cod>
+      <sigla>RLP</sigla>
+      <nome>Relatório Prévio</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>454</cod>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Perempção da Concessão</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>455</cod>
+      <sigla>RLF</sigla>
+      <nome>Relatório Final</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>456</cod>
+      <sigla>PRT</sigla>
+      <nome>Parecer Técnico</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>457</cod>
+      <sigla>PRO</sigla>
+      <nome>Proposta</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>458</cod>
+      <sigla>EXP</sigla>
+      <nome>Exposição</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>459</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso contra decisão de presidente de Comissão em Reclamação (Art. 96, § 2º, RICD)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>460</cod>
+      <sigla>OBJ</sigla>
+      <nome>Objeto de Deliberação</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>461</cod>
+      <sigla>MSC</sigla>
+      <nome>Mensagem de Missão de Paz (Art. 15 da LC 97/99)</nome>
+      <descricao>Art. 15 da Lei Complementar nº 97/99</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>462</cod>
+      <sigla>
+      </sigla>
+      <nome>I) OUTROS ITENS SUJEITOS À DELIBERAÇÃO</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>463</cod>
+      <sigla>
+      </sigla>
+      <nome>G) PROPOSIÇÔES CN E SF TRAMITANDO NA CÂMARA (CMO E MERCOSUL)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>464</cod>
+      <sigla>PLS</sigla>
+      <nome>Projeto de Lei do Senado Federal</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>465</cod>
+      <sigla>PLC</sigla>
+      <nome>Projeto de Lei da Câmara dos Deputados (SF)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>466</cod>
+      <sigla>PDS</sigla>
+      <nome>Projeto de Decreto Legislativo (SF)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>467</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Adiamento de Votação em Regime de Urgência</nome>
+      <descricao>Adiamento de Votação em Regime de Urgência, nos termos do art. 177, § 1º do RICD.</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>468</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Encerramento de discussão em Comissão</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>481</cod>
+      <sigla>ATOP</sigla>
+      <nome>Ato do Presidente</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>482</cod>
+      <sigla>RDV</sigla>
+      <nome>Redação do Vencido</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>483</cod>
+      <sigla>RST</sigla>
+      <nome>Redação para o segundo turno</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>484</cod>
+      <sigla>RLP(R)</sigla>
+      <nome>Relatório Prévio Reformulado</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>485</cod>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Aprovação de Contas dos Presidentes</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>486</cod>
+      <sigla>RQP</sigla>
+      <nome>Requerimento de Plenário</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>487</cod>
+      <sigla>EPP</sigla>
+      <nome>Emenda ao Plano Plurianual</nome>
+      <descricao>Emenda ao Plano Plurianual</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>488</cod>
+      <sigla>EAG</sigla>
+      <nome>Emenda Substitutiva Aglutinativa Global</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>489</cod>
+      <sigla>MSC</sigla>
+      <nome>Mensagem que Propõe alteração a Projeto</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>490</cod>
+      <sigla>PEA</sigla>
+      <nome>Parecer à Emenda Aglutinativa</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>491</cod>
+      <sigla>SPA</sigla>
+      <nome>Sugestão de Emenda ao PPA - CLP</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>492</cod>
+      <sigla>TVR</sigla>
+      <nome>Autorização - Rádio Comunitária - Dez anos</nome>
+      <descricao>Autorização - Rádio Comunitária - Dez anos</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>493</cod>
+      <sigla>MSC</sigla>
+      <nome>Mensagem de Perempção de Rádio/TV</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>494</cod>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Alteração de Decreto Legislativo</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>495</cod>
+      <sigla>AV</sigla>
+      <nome>Aviso</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>496</cod>
+      <sigla>IAN</sigla>
+      <nome>IAN</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>497</cod>
+      <sigla>OF.</sigla>
+      <nome>Ofício Externo</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>498</cod>
+      <sigla>PCA</sigla>
+      <nome>PCA</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>499</cod>
+      <sigla>PDA</sigla>
+      <nome>PDA</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>500</cod>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Autorização do Congresso Nacional</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>501</cod>
+      <sigla>PRA</sigla>
+      <nome>Projeto de Resolução da Assembleia Constituinte - 1987/88</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>503</cod>
+      <sigla>RCM</sigla>
+      <nome>RCM</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>504</cod>
+      <sigla>RQA</sigla>
+      <nome>Requerimento de Informações da Assembleia Constituinte - 1987/88</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>505</cod>
+      <sigla>RQC</sigla>
+      <nome>RQC</nome>
+      <descricao/>
+    </valorRef>
+    <valorRef>
+      <cod>506</cod>
+      <sigla>AA</sigla>
+      <nome>Autógrafo</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>507</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso contra Inadmissibilidade de PEC (Art. 202, § 1º do RICD)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>508</cod>
+      <sigla>ESP</sigla>
+      <nome>Emenda Substitutiva de Plenário</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>509</cod>
+      <sigla>SSP</sigla>
+      <nome>Subemenda Substitutiva de Plenário</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>510</cod>
+      <sigla>SAP</sigla>
+      <nome>Subemenda Aglutinativa Substitutiva de Plenário</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>513</cod>
+      <sigla>MSC</sigla>
+      <nome>Mensagem de Implementação da Lei 10.707/03</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>514</cod>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Ministro do TCU</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>515</cod>
+      <sigla>
+      </sigla>
+      <nome>K) PROPOSIÇÕES INATIVAS IMPORTADAS SINOPSE</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>516</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Inclusão na Ordem do Dia de proposição (com previsão ou durante o período de Convocação Extraordinário)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>517</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Interrupção da licença inferior a 120 dias</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>518</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Votação em globo da proposição</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>519</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Afastamento paramissão temporária de caráter diplomático ou cultural</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>520</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Constituição de Comissão Especial de Projeto de Código</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>521</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Constituição de Comissão Especial de Projeto</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>522</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Constituição de Comissão Especial de Estudo</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>523</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Convocação de Ministro de Estado na Comissão</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>524</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Convocação de Sessão Extraordinária</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>525</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Convocação de reunião extraordinária de comissão</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>526</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Destaque votação de emenda ou parte</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>527</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Destaque para votação de subemenda ou parte</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>528</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Destaque para tornar parte de emenda ou proposição projeto autonomo</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>529</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Destaque para votação de projeto ou substitutivo ou parte deles quando a preferencia cair sobre outro ou sobre proposições apensadas</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>530</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Destaque para votação de parte da proposição</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>531</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Prorrogação da sessão para discussão e votação da matéria da Ordem do Dia</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>532</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Prorrogação da sessão para audiência de Ministro de Estado</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>533</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Prorrogação da sessão para realização de homenagens</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>534</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Prorrogação de licença para tratamento de saúde (Licença inferior a 120 dias)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>535</cod>
+      <sigla>MMP</sigla>
+      <nome>Mensagem do Ministério Público da União</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>536</cod>
+      <sigla>RIN</sigla>
+      <nome>Requerimento de Resolução Interna</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>537</cod>
+      <sigla>MST</sigla>
+      <nome>Mensagem do Supremo Tribunal Federal</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>538</cod>
+      <sigla>APJ</sigla>
+      <nome>Anteprojeto</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>539</cod>
+      <sigla>RQN</sigla>
+      <nome>Requerimento do Congresso Nacional</nome>
+      <descricao>Solicitação feita pela Claudia da SGM em 30/05/2005 as 18:14 (Incluído por MarcoRuas).&#xd;
+Requerimento do Congresso nacional que servirá de suporte aos recursos R.C (novos recursos). </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>540</cod>
+      <sigla>R.C</sigla>
+      <nome>Recurso do Congresso Nacional</nome>
+      <descricao>Solicitação feita pela Claudia da SGM em 30/05/2005 as 18:14 (Incluído por MarcoRuas).&#xd;
+Os recursos existente em RCN serão transferidos para este novo código.</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>541</cod>
+      <sigla>MSC</sigla>
+      <nome>Mensagem de Tranferência de Controle Societário</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>542</cod>
+      <sigla>SRAP</sigla>
+      <nome>Sugestão de Requerimento de Audiência Pública</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>550</cod>
+      <sigla>PDL</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+      <descricao>Projeto de Decreto Legislativo</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>551</cod>
+      <sigla>PDL</sigla>
+      <nome>Projeto de Decreto Legislativo de Medida Provisória</nome>
+      <descricao>Medida Provisória (Art. 62, § 3º da CF)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>552</cod>
+      <sigla>PDL</sigla>
+      <nome>Projeto de Decreto Legislativo de Referendo ou Plebiscito</nome>
+      <descricao>Plebiscito (Art. 49, XV da CF c/c o art. 3º Lei 9.709/98)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>553</cod>
+      <sigla>PDL</sigla>
+      <nome>Projeto de Decreto Legislativo de Concessão, Renovação e Permissão de Radio/TV</nome>
+      <descricao>Concessão/Renovação de Radio/TV (Art. 49, XII c/c 223 da CF)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>554</cod>
+      <sigla>PDL</sigla>
+      <nome>Projeto de Decreto Legislativo de Acordos, tratados ou atos internacionais</nome>
+      <descricao>Acordos, tratados ou atos internacionais (Art. 49, I da CF)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>555</cod>
+      <sigla>PDL</sigla>
+      <nome>Projeto de Decreto Legislativo de Indicação de Autoridade ao TCU</nome>
+      <descricao>Indicação de Autoridade ao TCU (Art. 49, XIII da CF)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>556</cod>
+      <sigla>PDL</sigla>
+      <nome>Projeto de Decreto Legislativo de Programação Monetária</nome>
+      <descricao>Programação Monetária (Lei nº 9.069/95)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>557</cod>
+      <sigla>PDL</sigla>
+      <nome>Projeto de Decreto Legislativo de Sustação de Atos Normativos do Poder Executivo</nome>
+      <descricao>Susta atos normativos do Poder Executivo.</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>558</cod>
+      <sigla>PDL</sigla>
+      <nome>Projeto de Decreto Legislativo de Perempção da Concessão</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>559</cod>
+      <sigla>PDL</sigla>
+      <nome>Projeto de Decreto Legislativo de Aprovação de Contas dos Presidentes</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>560</cod>
+      <sigla>PDL</sigla>
+      <nome>Projeto de Decreto Legislativo de Alteração de Decreto Legislativo</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>561</cod>
+      <sigla>PDL</sigla>
+      <nome>Projeto de Decreto Legislativo de Autorização do Congresso Nacional</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>562</cod>
+      <sigla>PDL</sigla>
+      <nome>Projeto de Decreto Legislativo de Ministro do TCU</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>563</cod>
+      <sigla>PDL</sigla>
+      <nome>Projeto de Decreto Legislativo de Perempção</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>600</cod>
+      <sigla>CCN</sigla>
+      <nome>Consulta do Congresso Nacional</nome>
+      <descricao>Solicitação feita pela Claudia da SGM em 31/05/2005 as 14:30 (Incluído por MarceloLapa).&#xd;
+</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>601</cod>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Perempção</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>602</cod>
+      <sigla>MSC</sigla>
+      <nome>Mensagem Revogação ou Anulação de Portaria</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>603</cod>
+      <sigla>ADD</sigla>
+      <nome>Adendo</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>604</cod>
+      <sigla>DEC</sigla>
+      <nome>Decisão</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>605</cod>
+      <sigla>ATC</sigla>
+      <nome>Ato Convocatório</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>606</cod>
+      <sigla>PRST</sigla>
+      <nome>Parecer à Redação para o Segundo Turno</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>607</cod>
+      <sigla>RLP(V)</sigla>
+      <nome>Relatório Prévio Vencedor</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>608</cod>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>609</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Criação de Frente Parlamentar</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>610</cod>
+      <sigla>DOC</sigla>
+      <nome>Documentos internos</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>611</cod>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>612</cod>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>613</cod>
+      <sigla>SPP</sigla>
+      <nome>Sugestão de Emenda ao PPA - Comissões</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>614</cod>
+      <sigla>RPA</sigla>
+      <nome>Relatório Parcial</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>615</cod>
+      <sigla>MTC</sigla>
+      <nome>Mensagem do Tribunal de Contas da União</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>616</cod>
+      <sigla>SPP-R</sigla>
+      <nome>Sugestão de Emenda ao PPA - revisão (Comissões)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>617</cod>
+      <sigla>SPA-R</sigla>
+      <nome>Sugestão de Emenda ao PPA - revisão (CLP)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>618</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso do Conselho de Ética que contraria norma constitucional ou regimental (Art. 14, VIII, CEDP)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>619</cod>
+      <sigla>RFP</sigla>
+      <nome>Refomulação de Parecer - art. 130, parágrafo único do RICD.</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>620</cod>
+      <sigla>PPP</sigla>
+      <nome>Parecer Proferido em Plenário - Notas Taquigráficas</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>621</cod>
+      <sigla>PSS</sigla>
+      <nome>Parecer às Emendas ou ao Substitutivo do Senado - Notas Taquigráficas</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>622</cod>
+      <sigla>PRVP</sigla>
+      <nome>Proposta de Redação do Vencido em Primeiro Turno</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>623</cod>
+      <sigla>MSC</sigla>
+      <nome>Mensagem de Afastamento/Interrupção de tratamento de saúde</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>624</cod>
+      <sigla>SUC</sigla>
+      <nome>Sugestão a Projeto de Consolidação de Leis</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>625</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Prejudicialidade</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>626</cod>
+      <sigla>MSC</sigla>
+      <nome>Mensagem de Cessão de Imóvel</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>627</cod>
+      <sigla>TVR</sigla>
+      <nome>Perempção de Rádio/TV</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>628</cod>
+      <sigla>TVR</sigla>
+      <nome>Revogação ou Anulação de Portaria de Rádio/TV</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>629</cod>
+      <sigla>TVR</sigla>
+      <nome>Transferência de Controle Societário</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>630</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso contra indeferimento liminar de emenda à Medida Provisória (Art. 125, caput, RICD)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>631</cod>
+      <sigla>REL</sigla>
+      <nome>Relatório de Comissão Externa</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>632</cod>
+      <sigla>PLN</sigla>
+      <nome>Projeto de Lei (CN)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>633</cod>
+      <sigla>PLN</sigla>
+      <nome>Projeto de Lei (CN) de Alteração do PPA e LDO</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>634</cod>
+      <sigla>PDN</sigla>
+      <nome>Projeto de Decreto Legislativo (CN)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>635</cod>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>636</cod>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Atividades do TCU</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>637</cod>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Gestão Fiscal</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>638</cod>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Demonstrações Financeiras do Banco Central do Brasil</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>639</cod>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Contas do Governo da República</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>640</cod>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Desempenho do Fundo Soberano do Brasil</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>641</cod>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Subtítulos com Indícios de Irregularidades Graves Apontadas pelo TCU</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>642</cod>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Operações de Redesconto e Empréstimo realizadas pelo Banco Central</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>643</cod>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>644</cod>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>645</cod>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Avaliação do Cumprimento das Metas Fiscais/Superávit Primário, MCN</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>646</cod>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Gestão Fiscal, MCN</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>647</cod>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Operações de Crédito Incluídas na LOA Pedentes de Contratação, MCN</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>648</cod>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Avaliação do PPA, MCN</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>649</cod>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Contas do Governo da República, MCN</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>650</cod>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Avaliação de Receitas e Despesas, MCN</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>651</cod>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>652</cod>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório Trimestral Gerencial do BNDES</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>653</cod>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Operações de Empréstimo de Capital de Giro Contratadas pela Caixa Econômica Federal</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>654</cod>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Demonstrações Contábeis de Fundo Constitucional de Financiamento</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>655</cod>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Contas do Governo da República</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>656</cod>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Subtítulos com Indícios de Irregularidades Graves apontadas pelo TCU</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>657</cod>
+      <sigla>PLN</sigla>
+      <nome>Projeto de Lei (CN) de Crédito Especial</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>658</cod>
+      <sigla>PLN</sigla>
+      <nome>Projeto de Lei (CN) de Crédito Suplementar</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>659</cod>
+      <sigla>PLN</sigla>
+      <nome>Projeto de Lei (CN) de Lei Orçamentária Anual (LOA)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>660</cod>
+      <sigla>PLN</sigla>
+      <nome>Projeto de Lei (CN) de Lei de Diretrizes Orçamentárias (LDO)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>661</cod>
+      <sigla>PLN</sigla>
+      <nome>Projeto de Lei (CN) de Plano Plurianual</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>662</cod>
+      <sigla>MSF</sigla>
+      <nome>Mensagem (SF)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>663</cod>
+      <sigla>PRP</sigla>
+      <nome>Parecer do Relator Parcial</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>664</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Retirada de Emenda a Medida Provisória</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>665</cod>
+      <sigla>EMRP</sigla>
+      <nome>Emenda de Relator Parcial</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>666</cod>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>667</cod>
+      <sigla>RRL</sigla>
+      <nome>Relatório do Relator</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>668</cod>
+      <sigla>CVR</sigla>
+      <nome>Contestação ao Voto do Relator</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>669</cod>
+      <sigla>PARF</sigla>
+      <nome>Parecer de Comissão para Redação Final</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>670</cod>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória de Crédito Extraordinário</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>671</cod>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Atividades da Autoridade Pública Olímpica - APO</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>672</cod>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Gestão Fiscal do Tribunal de Contas da União</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>673</cod>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Lei de Incentivo ao Esporte</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>674</cod>
+      <sigla>SRL</sigla>
+      <nome>Sugestão de Emenda a Relatório</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>675</cod>
+      <sigla>RPL</sigla>
+      <nome>Relatório Preliminar</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>676</cod>
+      <sigla>RRC</sigla>
+      <nome>Relatório de Receita</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>679</cod>
+      <sigla>RPLE</sigla>
+      <nome>Relatório Preliminar Apresentado com Emendas</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>680</cod>
+      <sigla>ERR</sigla>
+      <nome>Errata</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>681</cod>
+      <sigla>CAE</sigla>
+      <nome>Relatório de Atividades do Comitê de Admissibilidade de Emendas (CAE)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>682</cod>
+      <sigla>COI</sigla>
+      <nome>Relatório do COI</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>683</cod>
+      <sigla>RAT</sigla>
+      <nome>Relatório Setorial</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>685</cod>
+      <sigla>CAE</sigla>
+      <nome>Relatório</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>686</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Participação ou Realização de Eventos fora da Câmara</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>687</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Reapresentação de Projeto de Lei Rejeitado na mesma Sessão Legislativa</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>688</cod>
+      <sigla>REQ</sigla>
+      <nome>Requerimento de Inclusão de Matéria Extra-Pauta na Ordem do Dia das Comissões</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>689</cod>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Informações de Execução das Obras do PAC</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>690</cod>
+      <sigla>OFS</sigla>
+      <nome>Ofício do Senado Federal</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>691</cod>
+      <sigla>OFS</sigla>
+      <nome>Ofício do Senado Federal de Fundo Constitucional de Financiamento </nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>692</cod>
+      <sigla>PLN</sigla>
+      <nome>Projeto de Lei (CN) de Alteração da LDO</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>693</cod>
+      <sigla>PLN</sigla>
+      <nome>Projeto de Lei (CN) de Alteração da LOA</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>694</cod>
+      <sigla>MSG</sigla>
+      <nome>Mensagem (CN)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>695</cod>
+      <sigla>MSG</sigla>
+      <nome>Mensagem (CN) de Contas do Governo da República</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>696</cod>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Demonstrações Contábeis do Fundo Constitucional de Financiamento do Norte (FNO)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>697</cod>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Demonstrações Contábeis do Fundo Constitucional de Financiamento do Centro-Oeste (FCO)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>698</cod>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Demonstrações Contábeis do Fundo Constitucional de Financiamento do Nordeste (FNE).</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>699</cod>
+      <sigla>PLN</sigla>
+      <nome>Projeto de Lei (CN) de Alteração do PPA</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>700</cod>
+      <sigla>
+      </sigla>
+      <nome>Outras Proposições - Comissão Mista</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>701</cod>
+      <sigla>SBT-A</sigla>
+      <nome>Substitutivo adotado pela Comissão</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>702</cod>
+      <sigla>EMC-A</sigla>
+      <nome>Emenda Adotada pela Comissão</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>703</cod>
+      <sigla>SBE-A</sigla>
+      <nome>Subemenda Adotada pela Comissão</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>704</cod>
+      <sigla>RPLOA</sigla>
+      <nome>Relatório Preliminar</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>705</cod>
+      <sigla>ANEXO</sigla>
+      <nome>Anexo</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>706</cod>
+      <sigla>EMPV</sigla>
+      <nome>Emenda a Medida Provisória</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>707</cod>
+      <sigla>REL</sigla>
+      <nome>Relatório do Congresso Nacional</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>708</cod>
+      <sigla>OF</sigla>
+      <nome>Ofício do Congresso Nacional</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>709</cod>
+      <sigla>SBR</sigla>
+      <nome>Subemenda de Relator</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>710</cod>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Contas do Gestor Federal do SUS</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>711</cod>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Demonstrações Financeiras do Banco Central do Brasil</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>712</cod>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Contas do TCU</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>713</cod>
+      <sigla>ERD-A</sigla>
+      <nome>Emenda de Redação Adotada</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>714</cod>
+      <sigla>PIN</sigla>
+      <nome>Proposta de Instrução Normativa</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>715</cod>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Contas do TCU</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>810</cod>
+      <sigla>ATA</sigla>
+      <nome>Ata</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>814</cod>
+      <sigla>CRVITAEDOC</sigla>
+      <nome>Curriculum Vitae/Outro Documento</nome>
+      <descricao/>
+    </valorRef>
+    <valorRef>
+      <cod>822</cod>
+      <sigla>OF</sigla>
+      <nome>Ofício do Congresso Nacional</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>823</cod>
+      <sigla>OF</sigla>
+      <nome>Ofício do Senado Federal</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>830</cod>
+      <sigla>PR/CNMP</sigla>
+      <nome>Parecer do Conselho Nacional do Ministério Público</nome>
+      <descricao/>
+    </valorRef>
+    <valorRef>
+      <cod>831</cod>
+      <sigla>PR/CNJ</sigla>
+      <nome>Parecer do Conselho Nacional de Justiça</nome>
+      <descricao/>
+    </valorRef>
+    <valorRef>
+      <cod>832</cod>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório Anual da Agência Nacional de Transportes Aquaviários - Antaq</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>833</cod>
+      <sigla>
+      </sigla>
+      <nome>L) DOCUMENTOS DE CPI</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>834</cod>
+      <sigla>DOCCPI</sigla>
+      <nome>Documento de CPI ostensivo</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>835</cod>
+      <sigla>DOCCPI</sigla>
+      <nome>Documento de CPI sigiloso</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>836</cod>
+      <sigla>OFJ</sigla>
+      <nome>Ofício de órgão do Poder Judiciário</nome>
+      <descricao/>
+    </valorRef>
+    <valorRef>
+      <cod>837</cod>
+      <sigla>OFE</sigla>
+      <nome>Ofício de órgão do Poder Executivo</nome>
+      <descricao/>
+    </valorRef>
+    <valorRef>
+      <cod>838</cod>
+      <sigla>MAD</sigla>
+      <nome>Manifestação do(a) Denunciado(a)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>839</cod>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo sobre Declaração de Guerra e correlatos</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>840</cod>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo sobre Estado de Defesa, Estado de Sítio e Intervenção Federal nos Estados</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>841</cod>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo sobre transferência temporária da sede do Governo Federal</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>842</cod>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo para autorizar o Presidente ou o Vice-Presidente da República a se ausentarem do paíse, por mais de 15 dias (art. 49, II, CF)</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>843</cod>
+      <sigla>SIP</sigla>
+      <nome>Solicitação para instauração de processo</nome>
+      <descricao>Artigo 217 do RICD</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>844</cod>
+      <sigla>REC</sigla>
+      <nome>Recurso contra aplicação de censura escrita (Art. 12, § 2º do CEDP)</nome>
+      <descricao>Contra aplicação de censura escrita (Art. 12, § 2º do CEDP)</descricao>
+    </valorRef>
+    <valorRef>
+      <cod>845</cod>
+      <sigla>OF</sigla>
+      <nome>Demonstrativo de emissão do real</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>846</cod>
+      <sigla>DTQ</sigla>
+      <nome>Destaque para Votação em Separado</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>847</cod>
+      <sigla>PROC</sigla>
+      <nome>Processo</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>848</cod>
+      <sigla>PROC</sigla>
+      <nome>Processo de Comissão Externa</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+    <valorRef>
+      <cod>849</cod>
+      <sigla>PROC</sigla>
+      <nome>Processo de Estudo Legislativo</nome>
+      <descricao>
+      </descricao>
+    </valorRef>
+  </dados>
+  <links>
+    <link>
+      <rel>self</rel>
+      <href>https://dadosabertos.camara.leg.br/api/v2/referencias/tiposProposicao</href>
+    </link>
+    <link>
+      <rel>collection</rel>
+      <href>https://dadosabertos.camara.leg.br/api/v2/referencias/</href>
+    </link>
+  </links>
+</xml>
