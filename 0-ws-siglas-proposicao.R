@@ -1,9 +1,6 @@
-###### PIBIC #####
-
-
-#################################
-#####SIGLAS DAS PROPOSIÇÕES######
-##################################
+##########################################
+#####TODAS AS SIGLAS DAS PROPOSIÇÕES######
+##########################################
 
 ##### INSTALANDO OS PACOTES PARA WEBSCRAPING #####
 if(require(tidyverse) == F) install.packages('tidyverse'); require(tidyverse)
@@ -27,11 +24,11 @@ tipoSigla <- NULL
 descricao <- NULL
 
 for (i in 1:length(lista_siglas)) {
-  tipoSigla[i] <- lista_siglas[[i]]['tipoSigla']
-  descricao[i] <- lista_siglas[[i]]['descricao']
+  tipoSigla[i] <- trimws(lista_siglas[[i]]['tipoSigla'])
+  descricao[i] <- trimws(lista_siglas[[i]]['descricao'])
 }
 
 bd <- data.frame(tipoSigla, descricao)
 
-### SALVANDO BASE
-save("bd", file = "lista-siglas-cd-sel.RData")
+### SALVANDO BASE DE DADOS
+save("bd", file = "lista-siglas-cd.RData")

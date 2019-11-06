@@ -1,5 +1,5 @@
 ##########################################
-### SIGLAS SELECIONADAS DAS PROPOSIÇÕES###
+####SIGLAS SELECIONADAS DAS PROPOSIÇÕES###
 ##########################################
 
 ##### INSTALANDO OS PACOTES PARA FILTRAR #####
