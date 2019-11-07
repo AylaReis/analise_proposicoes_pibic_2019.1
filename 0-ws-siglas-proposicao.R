@@ -16,10 +16,13 @@ conteudo <- GET(link) #obtem o codigo fonte
 
 ### PROCESSAR OS DADOS OBTIDOS
 siglas_xml <- xmlParse(conteudo, encoding = "UTF-8")
+siglas_xml
+
 lista_siglas <- xmlToList(siglas_xml)
+lista_siglas
 
 names(lista_siglas$sigla)
-
+names
 tipoSigla <- NULL
 descricao <- NULL
 
@@ -29,6 +32,6 @@ for (i in 1:length(lista_siglas)) {
 }
 
 bd <- data.frame(tipoSigla, descricao)
-
+bd
 ### SALVANDO BASE DE DADOS
 save("bd", file = "lista-siglas-cd.RData")

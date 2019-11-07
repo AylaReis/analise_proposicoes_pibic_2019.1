@@ -1,9 +1,7 @@
-
-
 ###OBTENDO NÚMERO E TEXTO DA EMENTA###
-###2018###
+###2018- PL###
 
-##### INSTALANDO OS PACOTES PARA WEBSCRAPING #####
+##### INSTALANDO OS PACOTES PARA WEBSCRAPING 
 
 if(require(tidyverse) == F) install.packages('tidyverse'); require(tidyverse)
 if(require(httr) == F) install.packages('httr'); require(httr)
@@ -26,20 +24,24 @@ lista_conteudo_proposicoes
 names(lista_conteudo_proposicoes$proposicao) #lista de variáveis
 
 ano <- NULL
-tipoProposicao <- NULL  
+sigla <- NULL  
 numero <- NULL
 txtEmenta <- NULL
 
 for(i in 1:length(lista_conteudo_proposicoes)){
   ano[i] <- lista_conteudo_proposicoes[[i]]$ano
-  tipoProposicao[i] <- lista_conteudo_proposicoes[[i]]$tipoProposicao
+  sigla[i] <- lista_conteudo_proposicoes[[i]]$tipoProposicao$sigla
   numero[i] <- lista_conteudo_proposicoes[[i]]$numero
   txtEmenta[i] <- lista_conteudo_proposicoes[[i]]$txtEmenta
 }
+
 ano
-tipoProposicao
+sigla
 numero
 txtEmenta
+numero
 
-bd2 <- data.frame(ano, tipoProposicao, numero, txtEmenta)
+bd2 <- data.frame(ano, sigla, numero, txtEmenta)
 head(bd2)
+
+
