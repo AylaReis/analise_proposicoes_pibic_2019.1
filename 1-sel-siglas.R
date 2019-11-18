@@ -16,3 +16,4 @@ siglas_sel <- bd %>% filter(tipoSigla == "PEC"| tipoSigla == "PLC"| tipoSigla ==
 
 ### SALVANDO BASE DE DADOS
 save("siglas_sel", file = "lista-siglas-cd-sel.RData")
+
